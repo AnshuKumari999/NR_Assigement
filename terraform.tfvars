@@ -1,0 +1,14 @@
+var-name                      = ["Apdex-1(Low)", "Apdex-2(Low)"]
+application_name              = "Anshu-NR"
+account_id                    = 3931823
+policy_name                   = "Anshu"
+runbook_url                   = null
+incident_preference           = "PER_POLICY"
+channel_ids                   = null
+apdex_warning_threshold       = 0.7
+apdex_critical_threshold      = 0.6
+apdex_duration                = 550
+apdex_t                       = 0.5
+error_rate_critical_threshold = 50
+error_rate_duration           = 240
+error_rate_warning_threshold  = 2
